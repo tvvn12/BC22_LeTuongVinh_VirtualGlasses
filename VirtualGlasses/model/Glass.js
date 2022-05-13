@@ -10,3 +10,4 @@ class Glass {
     this.description = description;
   }
 }
+export default Glass;
